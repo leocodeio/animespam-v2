@@ -1,3 +1,5 @@
+## [1.6.13](https://github.com/leocodeio/animespam-v2/compare/v1.6.12...v1.6.13) (2025-06-07)
+
 ## [1.6.12](https://github.com/leocodeio/leostack/compare/v1.6.11...v1.6.12) (2025-06-03)
 
 
