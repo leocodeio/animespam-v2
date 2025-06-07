@@ -1,4 +1,4 @@
-## leostack
+## animespam
 
 ## Tech Stack
 
@@ -43,3 +43,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 This project is open source and we welcome contributions. Please feel free to submit a pull request.
 Read about how to contribute [here](CONTRIBUTING.md).
+
+made with ❤️ by [@leostack](https://github.com/leocodeio/leostack)
